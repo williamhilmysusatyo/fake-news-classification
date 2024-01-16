@@ -1,2 +1,6 @@
-# fake-news-classification
-Final Project MLOps Dicoding
+# Submission: Fake News Classification
+
+Nama: William Hilmy Susatyo
+Username Dicoding: williamhilmysusatyo
+
+
