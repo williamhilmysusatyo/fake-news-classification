@@ -1,0 +1,7 @@
+/__pycache__/
+/pipelines/
+/data/csv/news.csv
+/serving_model_dir/
+
+*.zip
+*.png
